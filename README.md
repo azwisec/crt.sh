@@ -6,3 +6,5 @@ Then give a permission for execute that file.
 
 Then execute the file by typing.
 #./filename.sh target.com
+
+Example: #./crtsh.sh apple.com >>/root/recon/apple.txt
