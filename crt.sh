@@ -18,7 +18,7 @@ if [ -z $TARGET ]; then
 	echo -e "$OKRED | (__| |  | |_ _\__ \ | | |$RESET"
 	echo -e "$OKRED  \___|_|   \__(_)___/_| |_|$RESET"
   	echo ""
-	echo -e "$OKRED [+] by 1N3@CrowdShield$RESET"
+	echo -e "$OKRED [+] ASWIN GOVIND"
 	echo -e "$OKRED [+] https://crowdshield.com$RESET"
 	echo -e "$OKRED [-] Usage: crt.sh <target>$RESET"
 	exit
@@ -31,7 +31,7 @@ if [[ $TARGET = "--help" ]]; then
 	echo -e "$OKRED | (__| |  | |_ _\__ \ | | |$RESET"
 	echo -e "$OKRED  \___|_|   \__(_)___/_| |_|$RESET"
   	echo ""
-	echo -e "$OKRED [+] by 1N3@CrowdShield$RESET"
+	echo -e "$OKRED [+] ASWIN GOVIND$RESET"
 	echo -e "$OKRED [+] https://crowdshield.com$RESET"
 	echo -e "$OKRED [-] Usage: crt.sh <target>$RESET"
 	exit
@@ -43,7 +43,7 @@ echo -e "$OKRED  / __| '__| __| / __| '_ \ $RESET"
 echo -e "$OKRED | (__| |  | |_ _\__ \ | | |$RESET"
 echo -e "$OKRED  \___|_|   \__(_)___/_| |_|$RESET"
 echo ""
-echo -e "$OKRED [+] by 1N3@CrowdShield$RESET"
+echo -e "$OKRED [+] ASWIN GOVIND$RESET"
 echo -e "$OKRED [+] https://crowdshield.com$RESET"
 echo -e "$OKRED + -- ----------------------------=[Gathering Certificate Subdomains]=-------- -- +$RESET"
 curl -s https://crt.sh/?q=%25.$TARGET > /tmp/curl.out
