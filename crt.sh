@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# crt.sh sub-domain check by 1N3@CrowdShield
+# crt.sh sub-domain 
 # https://crowdshield.com 
 #
 
